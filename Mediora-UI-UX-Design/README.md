@@ -17,6 +17,15 @@ Tools Used
 
 Design Screenshots
 The screenshots folder contains the main screens designed for the Mediora application.
+![Login Page](screenshots/login.png)
+
+![Home Page](screenshots/home1.png)
+
+![Doctor Details](screenshots/doctor-details.png)
+
+![Confirm Appointment](screenshots/confirm-appointment.png)
+
+![Payment Page](screenshots/payment.png)
 
 Project Type
 Personal UI/UX Design Project
