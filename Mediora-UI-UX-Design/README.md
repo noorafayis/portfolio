@@ -27,6 +27,10 @@ The screenshots folder contains the main screens designed for the Mediora applic
 
 ![Payment Page](screenshots/payment.png)
 
+![Appointment Success](screenshots/appointment-success.png)
+
+![My Appointments](screenshots/my-appointments.png)
+
 Project Type
 Personal UI/UX Design Project
 
