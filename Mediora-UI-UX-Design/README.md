@@ -19,7 +19,7 @@ Design Screenshots
 The screenshots folder contains the main screens designed for the Mediora application.
 ![Login Page](screenshots/login.png)
 
-![Home Page](screenshots/home1.png)
+![Home Page](screenshots/home.png)
 
 ![Doctor Details](screenshots/doctor-details.png)
 
